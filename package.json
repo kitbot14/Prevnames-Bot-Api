@@ -1,0 +1,23 @@
+{
+  "name": "Prevnames-Bot-NinjaMod",
+  "version": "0.0.1",
+  "description": "Un bot Discord utilisant discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "2.0kit | ninjamod"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "author": "2.0kit | ninjamod",
+  "license": "MIT"
+}
