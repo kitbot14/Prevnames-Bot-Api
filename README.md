@@ -36,4 +36,8 @@
 }
 ```
 
+last update 
 
+```javascript
+// Le contenu du fichier example.js
+console.log('Hello, World!');
