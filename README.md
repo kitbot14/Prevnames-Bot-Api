@@ -42,3 +42,4 @@ last update
 update du ready.js
 ajoue dun module
 fix de la api
+ajoue de la commands en embed prevnames
