@@ -1,6 +1,6 @@
 {
   "name": "Prevnames-Bot-NinjaMod",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "description": "Un bot Discord utilisant discord.js",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "axios": "^1.7.9",
+    "chalk": "^5.4.1",
     "discord.js": "^14.17.3",
     "dotenv": "^16.4.7"
   },
