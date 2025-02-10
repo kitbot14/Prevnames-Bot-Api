@@ -39,5 +39,6 @@
 last update 
 
 ```javascript
-// Le contenu du fichier example.js
-console.log('Hello, World!');
+update du ready.js
+ajoue dun module
+fix de la api
